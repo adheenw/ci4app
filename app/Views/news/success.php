@@ -1,0 +1,1 @@
+<p>Berita berhasil ditambahkan.</p>
